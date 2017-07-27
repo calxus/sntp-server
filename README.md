@@ -1,2 +1,2 @@
-# sntp-server
+# SNTP Server
 Stratum Two SNTP Server
